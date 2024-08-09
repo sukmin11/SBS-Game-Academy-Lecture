@@ -17,26 +17,27 @@ void main()
 	// 저장할 수 있는 값의 종류와 범위가 결정되어 있습니다.
 #pragma endregion
 
-	//char alphabet = 'A'; // -128 ~ 127
-	//
-	//int data = 100; 
-	//
-	//float decimal = 3.75f;
-	//
-	//// "%c" : 한 문자를 표현하는 서식 지정자
-	//// "%d" : 정수를 표현하는 서식 지정자
-	//// "%f" : 실수를 표현하는 서식 지정자
-	//
-	//alphabet = 'B';
-	//
-	//data = 999;
-	//
-	//decimal = 5.75f;
-	//
-	//printf("%c\n", alphabet); // A
-	//printf("%d\n", data);     // 100
-	//printf("%f\n", decimal);  // 3.75
 
+	// char alphabet = 'A'; // -128 ~ 127
+	// 
+	// int data = 100; 
+	// 
+	// float decimal = 3.75f;
+	// 
+	// // "%c" : 한 문자를 표현하는 서식 지정자
+	// // "%d" : 정수를 표현하는 서식 지정자
+	// // "%f" : 실수를 표현하는 서식 지정자
+	// 
+	// alphabet = 'B';
+	// 
+	// data = 999;
+	// 
+	// decimal = 5.75f;
+	// 
+	// printf("%c\n", alphabet); // A
+	// printf("%d\n", data);     // 100
+	// printf("%f\n", decimal);  // 3.75
+	   
 	// 변수의 메모리 공간은 프로그램이 실행될 때마다
 	// 바뀌며, 여러 개의 변수가 있을 때 서로 고유의
 	// 메모리 공간을 가지고 있습니다.
@@ -58,17 +59,29 @@ void main()
 
 	// + - * / %
 	// 1. 변수(result1) = 변수 + 변수
-	int data1 = 100;
-	int data2 = 50;
-	int result1 = data1 + data2;
-
 	// 2. 변수(result1) = 변수 - 리터럴 상수
-	const float si = 3.15f;
-	int result1 = data1 - 3.15
 	// 3. 변수(result1) = 변수 * 심볼릭 상수
-	int result1 = data2 * 
 	// 4. 변수(result1) = 리터럴 상수 / 심볼릭 상수
 	// 5. 변수(result1) = 심볼릭 상수 % 심볼릭 상수
+
+	int a = 100;
+	int b = 50;
+	const int c = 10;
+	const int d = 5;
+
+	int result1 = a + b;
+	int result2 = a - 10;
+	int result3 = b * c;
+	int result4 = 10 / d;
+	int result5 = c % d;
+
+
+	printf("%d\n", result1);
+	printf("%d\n", result2);
+	printf("%d\n", result3);
+	printf("%d\n", result4);
+	printf("%d\n", result5);
+
 
 #pragma endregion
 
