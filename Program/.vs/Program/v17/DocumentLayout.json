@@ -3,14 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4702C931-67C7-4B52-B775-AFCE0E7053CF}|Program.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4702C931-67C7-4B52-B775-AFCE0E7053CF}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1E756CC-84D4-4589-85DD-9BD899011768}|..\\Class2th (Variable \u0026 Constant)\\Class2th (Variable \u0026 Constant).vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31EBBAAA-B5E3-4991-BBBD-ABD5B2A83B64}|..\\Class1th (printf)\\Class1th (printf).vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class1th (printf)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4702C931-67C7-4B52-B775-AFCE0E7053CF}|Program.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4702C931-67C7-4B52-B775-AFCE0E7053CF}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,37 +20,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class2th (Variable \u0026 Constant)\\Source.c",
               "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c",
               "RelativeToolTip": "..\\Class2th (Variable \u0026 Constant)\\Source.c",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-12T14:34:49.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAACYAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-09T14:32:08.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class1th (printf)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class1th (printf)\\Source.c",
