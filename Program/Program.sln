@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class10th (String)", "..\Cl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class11th (Function)", "..\Class11th (Function)\Class11th (Function).vcxproj", "{9C400820-24E7-4DBA-85F5-A6F3289B4B8B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class12th (Ascii Code)", "..\Class12th (Ascii Code)\Class12th (Ascii Code).vcxproj", "{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{9C400820-24E7-4DBA-85F5-A6F3289B4B8B}.Release|x64.Build.0 = Release|x64
 		{9C400820-24E7-4DBA-85F5-A6F3289B4B8B}.Release|x86.ActiveCfg = Release|Win32
 		{9C400820-24E7-4DBA-85F5-A6F3289B4B8B}.Release|x86.Build.0 = Release|Win32
+		{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}.Debug|x64.ActiveCfg = Debug|x64
+		{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}.Debug|x64.Build.0 = Debug|x64
+		{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}.Debug|x86.Build.0 = Debug|Win32
+		{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}.Release|x64.ActiveCfg = Release|x64
+		{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}.Release|x64.Build.0 = Release|x64
+		{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}.Release|x86.ActiveCfg = Release|Win32
+		{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
