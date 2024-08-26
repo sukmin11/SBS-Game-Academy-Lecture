@@ -1,19 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4702C931-67C7-4B52-B775-AFCE0E7053CF}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}|..\\Class12th (Ascii Code)\\Class12th (Ascii Code).vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class12th (Ascii Code)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4702C931-67C7-4B52-B775-AFCE0E7053CF}|Program.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4702C931-67C7-4B52-B775-AFCE0E7053CF}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D852062B-24ED-46DE-8A1D-1A6458A173ED}|..\\Class3th (Bit)\\Class3th (Bit).vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C99AFA37-0420-44B3-9DEF-53C16C893565}|..\\Class4th (Overflow \u0026 Underflow)\\Class4th (Overflow \u0026 Underflow).vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21814042-3891-4C64-B32D-218BF6530EF3}|..\\Class5th (Conditional Statement)\\Class5th (Conditional Statement).vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class5th (Conditional Statement)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class5th (Conditional Statement)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,52 +58,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class3th (Bit)\\Source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
-              "RelativeToolTip": "..\\Class3th (Bit)\\Source.c",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class12th (Ascii Code)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class12th (Ascii Code)\\Source.c",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class12th (Ascii Code)\\Source.c",
+              "RelativeToolTip": "..\\Class12th (Ascii Code)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-16T11:58:23.881Z",
+              "WhenOpened": "2024-08-26T15:09:13.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class4th (Overflow \u0026 Underflow)\\Source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c",
-              "RelativeToolTip": "..\\Class4th (Overflow \u0026 Underflow)\\Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-16T11:58:11.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T11:58:23.881Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class5th (Conditional Statement)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class5th (Conditional Statement)\\Source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class5th (Conditional Statement)\\Source.c",
-              "RelativeToolTip": "..\\Class5th (Conditional Statement)\\Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAALAAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-16T11:04:03.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T11:58:11.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class5th (Conditional Statement)\\Source.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class5th (Conditional Statement)\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class5th (Conditional Statement)\\Source.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class5th (Conditional Statement)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-16T11:04:03.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAADgAAAAAAAAAAAAAAIYAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-16T10:55:40.755Z",
               "EditorCaption": ""

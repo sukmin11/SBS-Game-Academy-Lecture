@@ -28,15 +28,12 @@ int main()
 	// 미국 국립 표준 협회에서 표준화한 정보 교환용
 	// 7 bit 부호 체계입니다.
 
-	// int alphabet = 'A';
-	// 
-	// printf("alphabet 변수의 값 : %d\n", alphabet);
-	// printf("alphabet 변수의 값 : %c\n", alphabet);
-	// 
-	// for (int i = 65; i <= 90; i++)
-	// {
-	// 	printf("%c ", i);
-	// }
+	int alphabet = 'A';
+	
+	for (int i = 0; i < 26; i++)
+	{
+		printf("%c ", alphabet + i);
+	}
 
 #pragma endregion
 
