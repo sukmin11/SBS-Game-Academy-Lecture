@@ -77,29 +77,29 @@ void main()
 
 #pragma region 펠린드롬
 
-	char word[] = { "level" };
-
-	int flag = 1;
-
-	int size = sizeof(word) - 1;
-
-	for (int i = 0; i < sizeof(word) / 2; i++)
-	{
-		if (word[i] != word[size - i - 1])
-		{
-			flag = 0;
-			break;
-		}
-	}
-
-	if (flag == 1)
-	{
-		printf("회문입니다.\n");
-	}
-	else
-	{
-		printf("회문이 아닙니다\n");
-	}
+	// char word[] = { "level" };
+	// 
+	// int flag = 1;
+	// 
+	// int size = sizeof(word) - 1;
+	// 
+	// for (int i = 0; i < sizeof(word) / 2; i++)
+	// {
+	// 	if (word[i] != word[size - i - 1])
+	// 	{
+	// 		flag = 0;
+	// 		break;
+	// 	}
+	// }
+	// 
+	// if (flag == 1)
+	// {
+	// 	printf("회문입니다.\n");
+	// }
+	// else
+	// {
+	// 	printf("회문이 아닙니다\n");
+	// }
 
 #pragma endregion
 }
