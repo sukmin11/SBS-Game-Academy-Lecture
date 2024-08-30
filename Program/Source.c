@@ -52,13 +52,13 @@ int main()
 
 #pragma region 구조체 포인터
 
-	// struct Node * node = malloc(sizeof(struct Node));
-	// 
-	// node->data = 100;
-	// 
-	// printf("node1의 data 값 : %d\n", node->data);
-	// 
-	// free(node);
+	struct Node* node = malloc(sizeof(struct Node));
+
+	node->data = 100;
+
+	printf("node1의 data 값 : %d\n", node->data);
+
+	free(node);
 
 #pragma endregion
 
@@ -71,11 +71,11 @@ int main()
 	node2.next = &node3;
 	node3.next = NULL;
 
-	struct Node* Currentnode = malloc(sizeof(struct Node));
-
-	for (int i = 1; i < 3; i++)
+	struct Node* currentNode = malloc(sizeof(struct Node));
+	for (int i = 1; currentNode != NULL; i++)
 	{
-
+		currentNode = &node[i];
+		printf("%d\n", currentNode);
 	}
 
 #pragma endregion

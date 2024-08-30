@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}|..\\Class12th (Ascii Code)\\Class12th (Ascii Code).vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class12th (Ascii Code)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4702C931-67C7-4B52-B775-AFCE0E7053CF}|Program.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4702C931-67C7-4B52-B775-AFCE0E7053CF}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802BF42E-70AA-4FF4-9002-3C00D19D24BB}|..\\Class13th (Dynamic Allocation)\\Class13th (Dynamic Allocation).vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class13th (Dynamic Allocation)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31302864-9B84-4D35-AF06-57ED9BA609D6}|..\\Class14th (Struct)\\Class14th (Struct).vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class14th (Struct)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E43C00-9EE5-460C-8B28-BEC30B34D561}|..\\Class9th (Array)\\Class9th (Array).vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class9th (Array)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C35D84A-3C24-48F1-8FE9-7E700B0B6B11}|..\\Class8th (Pointer)\\Class8th (Pointer).vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class8th (Pointer)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5FBD26-E1C0-468E-98D5-25EB5A7BE5CA}|..\\Class12th (Ascii Code)\\Class12th (Ascii Code).vcxproj|C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class12th (Ascii Code)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +70,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class13th (Dynamic Allocation)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class13th (Dynamic Allocation)\\Source.c",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class13th (Dynamic Allocation)\\Source.c",
+              "RelativeToolTip": "..\\Class13th (Dynamic Allocation)\\Source.c",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-30T06:18:22.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class14th (Struct)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class14th (Struct)\\Source.c",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class14th (Struct)\\Source.c",
+              "RelativeToolTip": "..\\Class14th (Struct)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-30T06:18:14.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class12th (Ascii Code)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class12th (Ascii Code)\\Source.c",
@@ -66,12 +104,11 @@
               "RelativeToolTip": "..\\Class12th (Ascii Code)\\Source.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-26T15:09:13.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T15:09:13.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
@@ -83,7 +120,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c",
+              "RelativeDocumentMoniker": "Source.c",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c",
+              "RelativeToolTip": "Source.c",
+              "ViewState": "AQIAACkAAAAAAAAAAADwvzYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-16T10:55:40.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class8th (Pointer)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class8th (Pointer)\\Source.c",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class8th (Pointer)\\Source.c",
+              "RelativeToolTip": "..\\Class8th (Pointer)\\Source.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-29T14:35:12.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c",
@@ -95,7 +157,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class9th (Array)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class9th (Array)\\Source.c",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Class9th (Array)\\Source.c",
+              "RelativeToolTip": "..\\Class9th (Array)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-29T14:40:32.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class5th (Conditional Statement)\\Source.c",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Administrator\\Desktop\\SBS-Game-Academy-Lecture\\Class5th (Conditional Statement)\\Source.c",
@@ -104,19 +178,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAALAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-16T11:04:03.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c",
-              "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\SBS-Game-Academy-Lecture\\Program\\Source.c",
-              "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-16T10:55:40.755Z",
-              "EditorCaption": ""
             }
           ]
         }
