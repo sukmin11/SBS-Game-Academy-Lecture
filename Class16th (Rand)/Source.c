@@ -83,6 +83,8 @@ int main()
 		printf("Computer가 가지고 있는 값 : ");
 		scanf_s("%d", &answer);
 
+		printf("\n");
+
 		if (answer == computer)
 		{
 			printf("컴퓨터가 가지고 있는 값을 맞추었습니다.\n");

@@ -96,17 +96,45 @@ int main()
 		scanf_s("%d", &key);
 		switch (key)
 		{
-		case Q:mana -= 10;
+		case Q:if (mana >= 10)
+		{
+			mana -= 10;
 			printf("Tumble\n");
-			break;
-		case W:mana -= 10;
+		}
+			  else
+		{
+			printf("마나가 부족합니다.\n");
+		}
+			  break;
+		case W:if (mana >= 10)
+		{
+			mana -= 10;
 			printf("Silver Bolts\n");
+		}
+			  else
+		{
+			printf("마나가 부족합니다.\n");
+		}
 			break;
-		case E:mana -= 20;
+		case E:if (mana >= 20)
+		{
+			mana -= 20;
 			printf("Condemn\n");
+		}
+			  else
+		{
+			printf("마나가 부족합니다.\n");
+		}
 			break;
-		case R:mana -= 30;
+		case R:if (mana >= 30)
+		{
+			mana -= 30;
 			printf("Final Hour\n");
+		}
+			  else
+		{
+			printf("마나가 부족합니다.\n");
+		}
 			break;
 		default: printf("Exception\n");
 			break;
