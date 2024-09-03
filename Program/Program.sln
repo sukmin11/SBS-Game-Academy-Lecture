@@ -37,6 +37,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class15th (Byte Padding)", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class16th (Random)", "..\Class16th (Rand)\Class16th (Rand).vcxproj", "{37E9BF40-A528-46D1-A50F-8C4E88145131}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class17th (Dangling Pointer)", "..\Class17th (Dangling Pointer)\Class17th (Dangling Pointer).vcxproj", "{C7C38A4F-F1DF-4872-B0F9-2906A3230959}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class18th (Double Pointer)", "..\Class18th (Double Pointer)\Class18th (Double Pointer).vcxproj", "{D29BF1E2-1978-4737-B272-8CB60EECD087}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +185,22 @@ Global
 		{37E9BF40-A528-46D1-A50F-8C4E88145131}.Release|x64.Build.0 = Release|x64
 		{37E9BF40-A528-46D1-A50F-8C4E88145131}.Release|x86.ActiveCfg = Release|Win32
 		{37E9BF40-A528-46D1-A50F-8C4E88145131}.Release|x86.Build.0 = Release|Win32
+		{C7C38A4F-F1DF-4872-B0F9-2906A3230959}.Debug|x64.ActiveCfg = Debug|x64
+		{C7C38A4F-F1DF-4872-B0F9-2906A3230959}.Debug|x64.Build.0 = Debug|x64
+		{C7C38A4F-F1DF-4872-B0F9-2906A3230959}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7C38A4F-F1DF-4872-B0F9-2906A3230959}.Debug|x86.Build.0 = Debug|Win32
+		{C7C38A4F-F1DF-4872-B0F9-2906A3230959}.Release|x64.ActiveCfg = Release|x64
+		{C7C38A4F-F1DF-4872-B0F9-2906A3230959}.Release|x64.Build.0 = Release|x64
+		{C7C38A4F-F1DF-4872-B0F9-2906A3230959}.Release|x86.ActiveCfg = Release|Win32
+		{C7C38A4F-F1DF-4872-B0F9-2906A3230959}.Release|x86.Build.0 = Release|Win32
+		{D29BF1E2-1978-4737-B272-8CB60EECD087}.Debug|x64.ActiveCfg = Debug|x64
+		{D29BF1E2-1978-4737-B272-8CB60EECD087}.Debug|x64.Build.0 = Debug|x64
+		{D29BF1E2-1978-4737-B272-8CB60EECD087}.Debug|x86.ActiveCfg = Debug|Win32
+		{D29BF1E2-1978-4737-B272-8CB60EECD087}.Debug|x86.Build.0 = Debug|Win32
+		{D29BF1E2-1978-4737-B272-8CB60EECD087}.Release|x64.ActiveCfg = Release|x64
+		{D29BF1E2-1978-4737-B272-8CB60EECD087}.Release|x64.Build.0 = Release|x64
+		{D29BF1E2-1978-4737-B272-8CB60EECD087}.Release|x86.ActiveCfg = Release|Win32
+		{D29BF1E2-1978-4737-B272-8CB60EECD087}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
